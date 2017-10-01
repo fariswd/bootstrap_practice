@@ -23,8 +23,10 @@ membuat kotak untuk mengisi sesuatu
 
 ### Trick
 1. link ke suatu elemen di dalam page itu sendiri menggunakan id
+``` html
 link "<a href="#id">"
 akan menuju <div id="id">
+````
 
 ### Catatan
 1. Penempatan css bootstrap sebelum css custom.
