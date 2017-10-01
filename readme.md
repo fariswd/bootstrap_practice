@@ -37,3 +37,4 @@ akan menuju <div id="id">
   </div>
 </div>
 ```
+3. learn bootstrap here https://www.codecademy.com/en/courses/web-beginner-en-yjvdd/0/1
